@@ -1,4 +1,4 @@
-package ticTacToe;
+
 
 import java.awt.Color;
 
